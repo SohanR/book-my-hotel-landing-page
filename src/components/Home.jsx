@@ -13,7 +13,9 @@ export default function Home() {
         <div className="info">
           <h1>It's Time To</h1>
           <h1>Explore The World</h1>
-          <Button text="Book Hotel Now" />
+          <a href="http://localhost:3000/hotels/">
+            <Button text="Book Hotel Now" />
+          </a>
         </div>
         <div className="planner">
           <form>

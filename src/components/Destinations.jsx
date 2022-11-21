@@ -29,7 +29,9 @@ export default function Destinations() {
           It is a long established fact that a reader will be distracted by the
           readable content of a page when looking at its layout from it.
         </p>
-        <Button text="Browse Hotels" />
+        <a href="http://localhost:3000/hotels/">
+          <Button text="Browse Hotels" />
+        </a>
       </div>
 
       <div className="destinations">

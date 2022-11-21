@@ -32,7 +32,7 @@ export default function Navbar() {
             <a href="#services">Home</a>
           </li>
           <li>
-            <a href="#destination"> Destination</a>
+            <a href="#destination"> Hotels</a>
           </li>
           <li>
             <a href="#offer">Offer</a>
